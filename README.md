@@ -7,8 +7,8 @@
   </td>
   <td width="50%">
 
-<br><p align="center">↓↓ All social media accounts here ↓↓<br><br>
-  [![UwU](https://cdn.discordapp.com/attachments/818520249959579668/818520330612113429/Adsz.png)](https://visitmy.bio/sepultrex)
+<br><p align="center">All social media accounts [here](https://visitmy.bio/sepultrex)]<br><br>
+
 
 
 
