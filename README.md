@@ -20,7 +20,7 @@
   <tr>
   <td width="50%">
       
-<br>![UwU](https://github-readme-stats.vercel.app/api?username=zeqraen&show_icons=true&theme=tokyonight)
+<br>![UwU](https://github-readme-stats.vercel.app/api?username=sepultrex&show_icons=true&theme=tokyonight)
 
 
 
@@ -28,7 +28,7 @@
   <td width="50%">
 
 
-<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeqraen&layout=compact&theme=tokyonight)
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepultrex&layout=compact&theme=tokyonight)
 
 
 
