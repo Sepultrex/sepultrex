@@ -1,5 +1,5 @@
 
-<a href="https://discord.com/users/852803012925980672"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/265924886461939712?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
+<a href="https://discord.com/users/852803012925980672"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/852803012925980672?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
 
 
 <table width="100%"> 
