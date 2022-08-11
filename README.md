@@ -7,7 +7,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center">All social media accounts [here](https://visitmy.bio/sepultrex)<br><br>
+<br><p align="center">All social media accounts [here](https://linktr.ee/sepultrex)<br><br>
 
 
 
