@@ -20,7 +20,7 @@
   <tr>
   <td width="50%">
       
-<br>![UwU](https://github-readme-stats.vercel.app/api?username=sepultrex&show_icons=true&theme=tokyonight)
+<br>![OwO](https://github-readme-stats.vercel.app/api?username=sepultrex&show_icons=true&theme=tokyonight)
 
 
 
