@@ -1,18 +1,21 @@
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
 
-
-<div align="left" width="%10" >
+<div align="center">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/999084205940150386)](https://discord.com/users/999084205940150386)
-  
- </div>
-    
 
-<div align="right" width="%10"  margin="auto">
+  </div>
+    
+    
+  </td>
+  <td width="50%">
 
 
 &nbsp; <br> [![Spotify](https://novatorem-blond-omega.vercel.app/api/spotify)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=w8OnZ5BtTlijNGQsFP9x9A)
 
- </div>
 
 
 </p>
