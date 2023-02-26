@@ -14,12 +14,28 @@
  
 &nbsp; <br> [![Spotify](https://novatorem-blond-omega.vercel.app/api/spotify)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=w8OnZ5BtTlijNGQsFP9x9A) </td>
 </div>
-</tr>
 
+<br>
 
+## 👨🏻‍💻  Me 🤨
+
+- 🌴 &nbsp; Name: Batuhan
+- 🌵 &nbsp; NICK(S): ZeqraeN, Sepultrex, MaGine, HanSoloQu
+- 🌲 &nbsp; History: I realized I was interested in coding when I was learning how to make bots on Discord and since then I've been trying to learn something new
+- 🌾 &nbsp; Contact: Discord `Sepultrex#0448` - This would be the best way to contact me. If you can't reach it, try <a href="https://www.instagram.com/sepultrex/">İnstagram</a>
+- 🍀 &nbsp; Hobbies: Playing games, watching movies or series
  
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
+  <summary style="font-weight: bold; font-size: 18px">My Gitgub Stats</summary>
 
-</details>
+<br/>
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=sepultrex&theme=dracula&count_private=true"></div>
+<table width="100%" align="center">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sepultrex&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepultrex&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+  </tr>
  
+</details>
