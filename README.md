@@ -1,24 +1,25 @@
+
 <h1 align="center">Hey, I'm Sepultrex.</h1>
+
 
 <div align="center">
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/999084205940150386)](https://discord.com/users/999084205940150386)
+
+ 
+<a href="https://discord.com/users/999084205940150386" target="_blank"><img width="35%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/999084205940150386"></a>
 </div>
 
+<div align="center">
+
+ 
+&nbsp; <br> [![Spotify](https://novatorem-blond-omega.vercel.app/api/spotify)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=w8OnZ5BtTlijNGQsFP9x9A) </td>
+</div>
+</tr>
 
 
+ 
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
 
-  
-  <table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-<br>![OwO](https://github-readme-stats.vercel.app/api?username=sepultrex&show_icons=true&theme=tokyonight)
-
-  <td width="50%">
-
-<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepultrex&layout=compact&theme=tokyonight)
-
-</p>
-  </td>
-  </table>
+</details>
+ 
