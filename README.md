@@ -7,7 +7,11 @@
   </td>
   <td width="50%">
 
-<br><p align="center">All social media accounts [here](https://linktr.ee/sepultrex)<br><br>
+<div align="center">
+  <a href="https://thicc-thighs.de/" >
+   <img src="https://lanyard.kyrie25.me/api/999084205940150386?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
+  </a>
+  </div>
 
 
 
@@ -41,8 +45,5 @@
   </td>
   </table>
   
-
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
 
