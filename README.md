@@ -34,8 +34,14 @@
 <table width="100%" align="center"><br>
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sepultrex&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepultrex&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sepultrex&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepultrex&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/> </td>
   </tr>
- 
+
+   <tr>
+    <td>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sepultrex&theme=radical&hide_border=true" /> </td>
+ <td> <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> </td>
+  </tr>
+
 </details>
