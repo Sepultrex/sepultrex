@@ -41,7 +41,7 @@
    <tr>
     <td>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sepultrex&theme=radical&hide_border=true" /> </td>
- <td> <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> </td>
+ <td> <img height="180em"/> </td>
   </tr>
 
 </details>
