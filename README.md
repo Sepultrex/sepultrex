@@ -17,7 +17,7 @@
 
 <br>
 
-## 👨🏻‍💻  Me 🤨
+## 👨🏻‍💻  Me 
 
 - 🌴 &nbsp; Name: Batuhan
 - 🌵 &nbsp; NICK(S): ZeqraeN, Sepultrex, MaGine, HanSoloQu
@@ -26,7 +26,7 @@
 - 🍀 &nbsp; Hobbies: Playing games, watching movies or series
  
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">My Gitgub Stats</summary>
+  <summary style="font-weight: bold; font-size: 18px">My Github Stats</summary>
 
 <br/>
 <div align="center">
