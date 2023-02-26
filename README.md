@@ -4,7 +4,7 @@
       
 
 <div align="center">
-  <a href="https://thicc-thighs.de/" >
+  <a href="https://linktr.ee/sepultrex" >
    <img src="https://lanyard.kyrie25.me/api/999084205940150386?waveColor=8B8BFA&waveSpotifyColor=1DB954&gradient=7E37F9-B48EF7-E568C4"  />
   </a>
   </div>
