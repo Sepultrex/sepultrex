@@ -1,21 +1,18 @@
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
 
-<div align="center">
-  <a href="https://linktr.ee/sepultrex" >
-   <img src="https://lanyard.kyrie25.me/api/999084205940150386?waveColor=8B8BFA&waveSpotifyColor=1DB954&gradient=7E37F9-B48EF7-E568C4"  />
-  </a>
-  </div>
+
+<div align="left" width="%10" >
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/999084205940150386)](https://discord.com/users/999084205940150386)
+  
+ </div>
     
-    
-  </td>
-  <td width="50%">
+
+<div align="right" width="%10"  margin="auto">
 
 
 &nbsp; <br> [![Spotify](https://novatorem-blond-omega.vercel.app/api/spotify)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=w8OnZ5BtTlijNGQsFP9x9A)
 
+ </div>
 
 
 </p>
