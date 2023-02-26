@@ -4,6 +4,7 @@
       
 
 <div align="center">
+  <br>
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/999084205940150386)](https://discord.com/users/999084205940150386)
 
