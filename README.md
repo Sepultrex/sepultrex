@@ -22,7 +22,12 @@
 
 </div>
 
+<div align="left">
 
+
+<a href="https://mynickname.com/sepultrex"><img src="https://mynickname.com/img.php?id=1647872&sert=1" alt="Certificate for nickname Sepultrex, is registered to: https://steamcommunity.com/id/Sepultrex/" width="40%"  border="0" /></a><br /><a href="https://mynickname.com"></a>
+ 
+</div>
 
 <br>
 
