@@ -51,6 +51,6 @@
     <td>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sepultrex&theme=radical&hide_border=true"/> </td>
 
-  </tr>
+   </tr>
 
 </details>
