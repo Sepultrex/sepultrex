@@ -15,6 +15,15 @@
 &nbsp; <br> [![Spotify](https://novatorem-blond-omega.vercel.app/api/spotify)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=w8OnZ5BtTlijNGQsFP9x9A) </td>
 </div>
 
+
+<div align="center">
+ 
+<br> [![MyAnimeList](https://cdn.myanimelist.net/signature/Sepultrex.png)](https://myanimelist.net/animelist/Sepultrex&sclick=1)
+
+</div>
+
+
+
 <br>
 
 ## 👨🏻‍💻  Me 
