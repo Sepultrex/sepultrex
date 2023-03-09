@@ -15,14 +15,14 @@
 &nbsp; <br> [![Spotify](https://novatorem-blond-omega.vercel.app/api/spotify)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=w8OnZ5BtTlijNGQsFP9x9A) </td>
 </div>
 
-
+<br>
 <div align="center">
  
 <br> [![MyAnimeList](https://cdn.myanimelist.net/signature/Sepultrex.png)](https://myanimelist.net/animelist/Sepultrex&sclick=1)
 
 </div>
 
-<div align="left">
+<div align="right">
 
 
 <a href="https://mynickname.com/sepultrex"><img src="https://mynickname.com/img.php?id=1647872&sert=1" alt="Certificate for nickname Sepultrex, is registered to: https://steamcommunity.com/id/Sepultrex/" width="40%"  border="0" /></a><br /><a href="https://mynickname.com"></a>
