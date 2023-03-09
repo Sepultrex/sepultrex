@@ -47,7 +47,7 @@
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepultrex&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/> </td>
   </tr>
 
-  <tr>
+   <tr>
     <td>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sepultrex&theme=radical&hide_border=true"/> </td>
 
