@@ -26,7 +26,7 @@
 - 🌵 &nbsp; NICK(S): ZeqraeN, Sepultrex, MaGine, HanSoloQu
 - 🌲 &nbsp; History: I realized I was interested in coding when I was learning how to make bots on Discord and since then I've been trying to learn something new
 - 🌾 &nbsp; Contact: Discord `Sepultrex#0057` - This would be the best way to contact me. If you can't reach it, try <a href="https://www.instagram.com/sepultrex/">İnstagram</a>
-- 🍀 &nbsp; Hobbies: Playing games, watching movies or series
+- 🍀 &nbsp; Hobbies: Playing games, watching movies or anime👀
  
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">My Github Stats</summary>
