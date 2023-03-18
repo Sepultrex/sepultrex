@@ -6,7 +6,7 @@
  
 
 <p align="left">
-<a href="https://discord.com/users/999084205940150386" target="_blank"><img width="50%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/999084205940150386"></a>
+<a href="https://discord.com/users/999084205940150386" target="_blank"><img width="40%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/999084205940150386"></a>
 </p>
 
 
