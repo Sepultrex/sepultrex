@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Sepultrex.</h1>
 <p align="left">
-   <a href="https://discord.com/users/999084205940150386" target="_blank"><img width="40%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/999084205940150386"></a>
+   <a href="https://discord.com/users/547781202019483651" target="_blank"><img width="40%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/547781202019483651"></a>
 </p>
 <p align="right">
  
