@@ -1,13 +1,9 @@
 <h1 align="center">Hey, I'm Sepultrex.</h1>
-<p align="left">
-   <a href="https://discord.com/users/547781202019483651" target="_blank"><img width="40%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/547781202019483651"></a>
+<p align="center">
+   <a href="https://discord.com/users/547781202019483651" target="_blank"><img width="40%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/547781202019483651"></a>
 </p>
-<p align="right">
- 
-   [![Spotify](https://novatorem-blond-omega.vercel.app/api/spotify)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=w8OnZ5BtTlijNGQsFP9x9A) 
 </td>
 </p>
-<br>
 <br>
 
 ## 👨🏻‍💻  Me 
