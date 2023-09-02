@@ -6,7 +6,7 @@
 🠗 Visitor Count 🠗
 </p>
 <p align="center">
-   <a href="https://discord.com/users/547781202019483651" target="_blank"><img width="40%" align="center" alt="Discord Status" src="https://count.getloli.com/get/@:sepultrex"></a>
+   <a href="https://discord.com/users/547781202019483651" target="_blank"><img width="40%" align="center" alt="Discord Status" src="https://moe-counter.glitch.me/get/@sepultrex?theme=rule34"></a>
 </p>
 <p align="right">
 
