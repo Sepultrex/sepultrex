@@ -1,8 +1,9 @@
 <table>
   <tr>
-    <td width="49%">
+    <td width="39%">
       <br>
-      <img width="110%" alt="Ekran Görüntüsü" src="https://github.com/user-attachments/assets/8f298dd2-5edf-49a6-b6cf-12319c6e7038">
+      <img width="80%" alt="Ekran Görüntüsü" src="https://github.com/user-attachments/assets/8f298dd2-5edf-49a6-b6cf-12319c6e7038">
+      <img width="80%" alt="Ekran Görüntüsü" src="https://github.com/user-attachments/assets/d15d1855-4138-4449-afe2-bb14da60b19a">
     </td>
     <td width="49%">
       <a href="https://discord.com/users/547781202019483651" target="_blank">
