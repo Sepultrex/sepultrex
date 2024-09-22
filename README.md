@@ -1,9 +1,6 @@
 <table>
   <tr>
     <td width="49%">
-      <a href="https://discord.com/users/547781202019483651" target="_blank">
-        <img width="100%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/547781202019483651">
-      </a>
       <br>
       <img width="110%" alt="Ekran Görüntüsü" src="https://github.com/user-attachments/assets/8f298dd2-5edf-49a6-b6cf-12319c6e7038">
     </td>
