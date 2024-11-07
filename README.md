@@ -1,17 +1,13 @@
-<table>
+
   <tr>
     <td width="39%">
-      <br>
-      <img width="80%" alt="Ekran Görüntüsü" src="https://github.com/user-attachments/assets/8f298dd2-5edf-49a6-b6cf-12319c6e7038">
-      <img width="80%" alt="Ekran Görüntüsü" src="https://github.com/user-attachments/assets/d15d1855-4138-4449-afe2-bb14da60b19a">
     </td>
     <td width="49%">
       <a href="https://discord.com/users/547781202019483651" target="_blank">
         <img width="100%" alt="Last.fm" src="https://lastfm-recently-played.vercel.app/api?user=sepultrex&loved=true&loved_style=4&footer_style=compact_stats&show_user=header">
       </a>
-    </td>
-  </tr>
-</table>
+
+
 
 
 
